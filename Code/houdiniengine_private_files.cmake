@@ -1,0 +1,19 @@
+set(FILES
+    Source/HoudiniEngineEditorSystemComponent.cpp
+    Source/HoudiniEngineEditorSystemComponent.h
+    Source/Translation/HoudiniGeometryToMesh.cpp
+    Source/Translation/HoudiniGeometryToMesh.h
+    Source/HAPI/HapiWrapper.cpp
+    Source/HAPI/HapiWrapper.h
+    Source/HAPI/HapiUtils.h
+    Source/HAPI/HapiUtils.cpp
+    Source/Session/HoudiniSession.cpp
+    Source/Session/HoudiniSession.h
+    Source/Asset/HoudiniModelBuilderUtil.cpp
+    Source/Asset/HoudiniModelBuilderUtil.h
+    Include/HoudiniEngine/HoudiniEngineBus.h
+    Source/Components/HoudiniDigitalAssetComponent.cpp
+    Source/Components/HoudiniDigitalAssetComponent.h
+    Source/Asset/HoudiniBakeBuilder.cpp
+    Source/Asset/HoudiniBakeBuilder.h
+)
